@@ -1,10 +1,10 @@
-# 30 Days of Neural Networks Challenge
+# 🧠 30 Days of Neural Networks Challenge
 
 Welcome! This is my **30-day journey** to build and understand neural networks from scratch using Python & NumPy later PyTorch.
 
 ---
 
-## Goals
+## 🧩 Goals
 - Build 1 neural network every day  
 - Strengthen fundamentals (math, backprop, optimization)
 - Cover important architectures: ANN, CNN, RNN, LSTM, etc.
@@ -12,7 +12,7 @@ Welcome! This is my **30-day journey** to build and understand neural networks f
 
 ---
 
-## Tools & Libraries
+## 🧠 Tools & Libraries
 - Python  
 - NumPy / Matplotlib  
 - PyTorch (for later stages)
@@ -20,12 +20,11 @@ Welcome! This is my **30-day journey** to build and understand neural networks f
 
 ---
 
-## Progress Tracker
+## 🗓️ Progress Tracker
 
 ✅ Day 01 — Single Neuron  
-✅ Day 02 — 2 Layer NN  
-✅ Day 03 — XOR Network  
-🔄 Day 04 — In progress...
+✅ Day 02 — ANN Using pytorch  
+✅ Day 03 — Multiclass classification (MNIST)ANN Using pytorch  
 
 
 
