@@ -25,7 +25,9 @@ Welcome! This is my **30-day journey** to build and understand neural networks f
 ✅ Day 01 — Single Neuron  
 ✅ Day 02 — ANN Using pytorch  
 ✅ Day 03 — Multiclass classification (MNIST)ANN Using pytorch  
-
+✅ Day 04 — Understanding Use of BatchNorm, Dropout 
+✅ Day 03 — Compare the optimizers
+ 
 
 
 
